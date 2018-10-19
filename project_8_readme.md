@@ -16,7 +16,9 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 ## Blue
 
-Vulnerability #1: __________________
+Vulnerability #1: SQL Injection
+<img src="https://github.com/dannyd2/Week_8/blob/master/Exploit_1_BLUE.gif" width="800">
+--> The blue site has an SQL vulnerability by displaying the message "database query failed". This was proven by a sleep command in the url. 
 
 Vulnerability #2: __________________
 
