@@ -28,8 +28,9 @@ Vulnerability #2: Session Hijacking/Fixation
 
 Vulnerability #1: __________________
 
-Vulnerability #2: __________________
-
+Vulnerability #2: User Enumeration 
+<img src="ttps://github.com/dannyd2/Week_8/blob/master/Exploit_1_GREEN.gif" width="800">
+\n --> When a known username is enetered (any password may be entered) the message "Log in was unsuccessful." appears in BOLD. However, when a non existing username is entered, "Log in was unsuccessful." is not in bold. 
 
 ## Red
 
