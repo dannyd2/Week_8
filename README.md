@@ -26,7 +26,9 @@ Vulnerability #2: Session Hijacking/Fixation
 
 ## Green
 
-Vulnerability #1: __________________
+Vulnerability #1: XSS
+<img src="https://github.com/dannyd2/Week_8/blob/master/Exploit_2_GREEN.gif" width="800">
+--> One can perform an XSS attack on the 'Contact' page of the website. Once an Admin checks their feedback page, the script executes. 
 
 Vulnerability #2: User Enumeration 
 <img src="https://github.com/dannyd2/Week_8/blob/master/Exploit_1_GREEN.gif" width="800">
