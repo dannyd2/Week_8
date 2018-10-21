@@ -27,7 +27,7 @@ Vulnerability #2: Session Hijacking/Fixation
 ## Green
 
 Vulnerability #1: XSS
-<img src="" width="800">
+
 --> One can perform an XSS attack on the 'Contact' page of the website. Once an Admin checks their feedback page, the script executes. 
 
 Vulnerability #2: User Enumeration 
