@@ -20,8 +20,9 @@ Vulnerability #1: SQL Injection
 <img src="https://github.com/dannyd2/Week_8/blob/master/Exploit_1_BLUE.gif" width="800">
 --> The blue site has an SQL vulnerability by displaying the message "database query failed". This was proven by a sleep command in the url. 
 
-Vulnerability #2: __________________
-
+Vulnerability #2: Session Hijacking/Fixation
+<img src="https://github.com/dannyd2/Week_8/blob/master/Exploit_2_BLUE.gif" width="800">
+--> By using the session ID tool that is provided by codepath, as well as Burpsuite, we can change the session ID to the one we got from the victims. The attacker then appears to be the victim and is able to log in.
 
 ## Green
 
