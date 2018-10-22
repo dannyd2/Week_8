@@ -34,10 +34,11 @@ Vulnerability #2: User Enumeration --> When a known username is enetered (any pa
 ## Red
 
 Vulnerability #1: CSRF --> Salesperson info without correct CSRF value can be updated on the red site, however the other sites do not allow the salesperson info to be updated without the correct CSRF value.
-
+<img src="https://github.com/dannyd2/Week_8/blob/master/Exploit_1_RED.gif" width="800">
 
  
 Vulnerability #2: IDOR --> While on the 'Find a salesperson' tab, you can edit the 'id' field in the URL tp expose a salesperson whose not supposed to be exposed. 
+<img src="https://github.com/dannyd2/Week_8/blob/master/Exploit_2_RED.gif" width="800">
 
 
 ## Notes
